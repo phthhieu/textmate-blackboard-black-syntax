@@ -2,5 +2,4 @@
 
 A textmate blackboard-black theme for Atom
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
-
+![](https://raw.githubusercontent.com/phthhieu/textmate-blackboard-black-syntax/master/textmate-blackboard-black-syntax.png)
